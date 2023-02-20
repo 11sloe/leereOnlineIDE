@@ -1,3 +1,3 @@
 # leereOnlineIDE
 
-<iframe src="empty_Workspace.html" style="width:600px; height:400px; overflow:hidden"></iframe>
+<iframe src="empty_Workspace.html" style="width:800px; height:800px; overflow:hidden"></iframe>
